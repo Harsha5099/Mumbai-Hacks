@@ -1,0 +1,26 @@
+flask
+uvicorn
+fastapi
+python-dotenv
+google-generativeai
+openai
+duckduckgo-search
+requests
+boto3
+pymongo
+web3
+werkzeug
+python-multipart
+
+# For PDF & DOCX reading
+pypdf
+python-docx
+
+# If using asyncio and concurrency helpers
+anyio
+
+# If using CORS protection
+flask-cors
+
+# Optional but recommended for OS compatibility
+certifi
